@@ -44,9 +44,8 @@ I’m passionate about mentoring, engineering design patterns, and AI-driven bac
 | [**duckdb-tinyorm**](https://github.com/naimsulejmani/duckdb-tinyorm) | TypeScript – ORM for DuckDB | ⭐ 6 |
 | [**aggregate.js**](https://github.com/naimsulejmani/aggregate.js) | Aggregate Functions for JavaScript | ⭐ 5 |
 | [**tick-tack-http-lib**](https://github.com/naimsulejmani/tick-tack-http-lib) | HTTP library | ⭐ 3 |
-| [**hp-grupi3-2023-24**](https://github.com/naimsulejmani/hp-grupi3-2023-24) | Java project | ⭐ 3 |
 | [**grupi3-oop-and-dsa-2023-24**](https://github.com/naimsulejmani/grupi3-oop-and-dsa-2023-24) | Java – OOP & DSA educational project | ⭐ 2 |
-| [**basicgr3-test-for-kids**](https://github.com/naimsulejmani/basicgr3-test-for-kids) | Java educational exercises | ⭐ 2 |
+| TBD | TBD |  TBD | ⭐ 10 |
 
 ---
 
