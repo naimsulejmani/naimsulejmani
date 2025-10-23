@@ -17,7 +17,7 @@ My expertise lies in **software architecture**, **data processing**, and **syste
 I’m passionate about mentoring, engineering design patterns, and AI-driven backend systems.
 
 📍 Based in **Fushë Kosovë, Republic of Kosovo**  
-🎓 Educated at **Radix & Cacttus Education**
+🎓 Educated at **HelloCare.ai & Cacttus Education**
 
 ---
 
